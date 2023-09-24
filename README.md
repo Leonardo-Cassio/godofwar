@@ -8,32 +8,6 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **Implantação** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
 ## ⚙️ Executando os testes
 
 Explicar como executar os testes automatizados para este sistema.
