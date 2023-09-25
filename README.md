@@ -99,6 +99,6 @@ Leonardo Cassio dos Santos
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
+* Convide alguém da equipe para uma cerveja amanteigada 🍺 
 * Obrigado publicamente 🤓.
 * etc.
