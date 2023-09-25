@@ -1,4 +1,4 @@
-# GOD OF WAR
+# GOD OF WAR 
 
 Esse é um projeto desenvolvido para informar sobre os três jogos principais da franquia God of War.
 
@@ -10,18 +10,6 @@ O site é simples, você pode navegar pelas páginas sem nenhuma dificuldade e c
 
 Na página 'História Principal da Trilogia' você pode clicar nos títulos dos jogos para entender do que se trata cada jogo da trilogia.
 Na página 'Gameplay' você pode clicar nas imagens representando cada jogo e ser redirecionado para um vídeo de uma parte do jogo que escolher.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-
 
 ## 📦 Desenvolvimento
 
