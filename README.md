@@ -66,7 +66,7 @@ ul: representa uma lista de itens sem ordem rígida, isto é, uma coleção de i
 
 a: com o atributo href cria-se um hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL.(presente nas páginas: 1 e 3)
 
-div: é um container genérico para conteúdo de fluxo, que de certa forma não representa nada, que pode ser utilizado para agrupar elementos para fins de estilos.(presente nas páginas: 1, 2 e 3)
+div: é utilizada para agrupar e delimitar conteúdos e para isso esses conteúdos devem ser declarados entre a tag de início e a tag de fechamento.(presente nas páginas: 1, 2 e 3)
 
 style: contém informações de estilo para um documento ou uma parte de um documento.(presente nas páginas: 1 e 2)
 
