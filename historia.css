@@ -1,0 +1,56 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('img/A-historia-de-Kratos-900x503.jpg');
+    background-size: 100%;
+    background-repeat: repeat;
+  }
+
+  .titulohistoria {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+  }
+
+  .clique {
+    cursor: pointer;
+    color: red;
+    text-decoration: underline;
+}
+
+.esconde {
+    display: none;
+}
+
+.clique2 {
+  cursor: pointer;
+  color: red;
+  text-decoration: underline;
+}
+
+.esconde2 {
+  display: none;
+}
+
+.clique3 {
+  cursor: pointer;
+  color: red;
+  text-decoration: underline;
+}
+
+.esconde3 {
+  display: none;
+}
+
+.alinhar{
+  align-items:center;
+  justify-content: space-around;
+  display: flex;
+}
+
+footer {
+  background-color: #333; 
+  color: #fff; 
+  padding: 10px; 
+  text-align: center; 
+}

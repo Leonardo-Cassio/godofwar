@@ -1,0 +1,30 @@
+       /* Estilos para o container dos vídeos */
+    .videos-container {
+    display: flex;
+    flex-direction: column; /* Empilha os vídeos verticalmente */
+    align-items: center; /* Alinha os vídeos ao centro horizontalmente */
+    }
+
+    .god1{
+        color: navy;
+    }
+
+    .god2{
+        color: navy;
+    }
+
+    .god3{
+        color: navy;
+    }
+
+    footer {
+        background-color: #333; 
+        color: #fff; 
+        padding: 10px; 
+        text-align: center; 
+    }
+    
+    .gamepl{
+        text-align: center;
+        text-decoration: underline;
+    }
