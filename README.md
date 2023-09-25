@@ -4,13 +4,12 @@ Esse é um projeto desenvolvido para informar sobre os três jogos principais da
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
+O site é simples, você pode navegar pelas páginas sem nenhuma dificuldade e clicar nas imagens e palavras para aparecer vídeos e textos sobre o assunto
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+Na página 'História Principal da Trilogia' você pode clicar nos títulos dos jogos para entender do que se trata cada jogo da trilogia.
+Na página 'Gameplay' você pode clicar nas imagens representando cada jogo e ser redirecionado para um vídeo de uma parte do jogo que escolher.
 
 ### 🔩 Analise os testes de ponta a ponta
 
@@ -22,44 +21,20 @@ Dar exemplos
 
 ### ⌨️ E testes de estilo de codificação
 
-Explique que eles verificam esses testes e porquê.
 
-```
-Dar exemplos
-```
 
 ## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Eu comecei desenvolvendo a página inicial aplicando o código HTML e juntamente desenvolvendo o CSS, assim também para as outras páginas, porém deixei os links de vídeos e imagens por último para facilitar o desenvolvimento de estilo do site.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Editor de Código Visual Studio Code - Vscode
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Leonardo Cassio dos Santos
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentación* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
