@@ -95,6 +95,7 @@ span: é um elemento que possui a finalidade de agrupar um conteúdo textual e a
 ## ✒️ Autores
 
 Leonardo Cassio dos Santos
+Habbiner Andrade
 
 ## 🎁 Expressões de gratidão
 
