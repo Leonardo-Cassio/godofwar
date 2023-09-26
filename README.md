@@ -1,7 +1,7 @@
 # GOD OF WAR 
 
 Esse é um projeto desenvolvido para informar sobre os três jogos principais da franquia God of War.
-godofwarweb.netlify.app
+<a>godofwarweb.netlify.app</a>
 
 ## 🚀 Começando:
 
