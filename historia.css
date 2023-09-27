@@ -4,6 +4,8 @@ body {
     background-image: url('img/A-historia-de-Kratos-900x503.jpg');
     background-size: 100%;
     background-repeat: repeat;
+    overflow-x: hidden ;
+    margin: 0;
   }
 
   .titulohistoria {
@@ -12,30 +14,50 @@ body {
     text-decoration: underline;
   }
 
+  .container2{
+    display: flex;
+    width: 100%;
+  }
+
+#texto1{
+  margin: 0px 5px 0px 5px;
+}
+
   .clique {
     cursor: pointer;
     color: red;
     text-decoration: underline;
+    width: 33%;
 }
 
 .esconde {
     display: none;
 }
 
+#texto2{
+  margin: 0px 5px 0px 5px;
+}
+
 .clique2 {
   cursor: pointer;
   color: red;
   text-decoration: underline;
+  width: 33%;
 }
 
 .esconde2 {
   display: none;
 }
 
+#texto3{
+  margin: 0px 17px 0px 0px;
+}
+
 .clique3 {
   cursor: pointer;
   color: red;
   text-decoration: underline;
+  width: 33%;
 }
 
 .esconde3 {
@@ -53,4 +75,9 @@ footer {
   color: #fff; 
   padding: 10px; 
   text-align: center; 
+}
+
+.baixo{
+  position:fixed;
+  bottom: 0;
 }
