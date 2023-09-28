@@ -6,15 +6,18 @@
     }
 
     .god1{
-        color: navy;
+        color: red;
+        background-color: black;
     }
 
     .god2{
-        color: navy;
+        color: red;
+        background-color: black;
     }
 
     .god3{
-        color: navy;
+        color: red;
+        background-color: black;
     }
 
     footer {
@@ -27,4 +30,6 @@
     .gamepl{
         text-align: center;
         text-decoration: underline;
+        background-color: black;
+        color: red;
     }

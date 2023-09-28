@@ -51,19 +51,9 @@ href: indica a relação entre diferentes páginas para os mecanismos de pesquis
 
 rel: diz qual é a função do arquivo que você está importando.(presente nas páginas: 1, 2 e 3)
 
-script: reúne instruções para que o PC execute tarefas e pode ser utilizado para programar infinitas funções.(presente nas páginas: 1 e 2)
-
-header: representa um grupo de suporte introdutório ou navegacional.(presente na página: 1)
+script: reúne instruções para que o PC execute tarefas e pode ser utilizado para programar infinitas funções.(presente na página: 2)
 
 class: é uma lista das classes de um elemento, separada por espaços que podem permitir o CSS e o Javascript selecionar e acessar elementos específicos.(presente nas páginas: 1, 2 e 3)
-
-nav: serve para agrupar uma lista de links para outras partes de um site, seja essa lista de navegação local ou global.(presente na página: 1)
-
-button: corresponde a um botão em que a pessoa usuária pode clicar para executar uma determinada ação.(presente na página: 1)
-
-li:é usado para representar um item que faz parte de uma lista.(presente na página: 1)
-
-ul: representa uma lista de itens sem ordem rígida, isto é, uma coleção de itens que não trazem uma ordenação.(presente na página: 1)
 
 a: com o atributo href cria-se um hiperligação nas páginas web, arquivos, endereços de emails, ligações na mesma página ou endereços na URL.(presente nas páginas: 1 e 3)
 
@@ -89,7 +79,7 @@ b: coloca um texto em formato negrito.(presente nas páginas: 1, 2 e 3)
 
 ID: define um identificador exclusivo que deve ser único por todo o documento.(presente na página: 2)
 
-p:  representa um parágrafo, em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco.(presente na página: 2)
+p: representa um parágrafo, em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco.(presente na página: 2)
 
 span: é um elemento que possui a finalidade de agrupar um conteúdo textual e até mesmo apresentar um conteúdo visual.(presente na página: 2)
 
