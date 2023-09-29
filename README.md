@@ -10,7 +10,7 @@ O site é simples, você pode navegar pelas páginas sem nenhuma dificuldade e c
 ## ⚙️ Executando os testes:
 
 Na página 'História Principal da Trilogia' você pode clicar nos títulos dos jogos para entender do que se trata cada jogo da trilogia.
-Na página 'Gameplay' você pode clicar nas imagens representando cada jogo e ser redirecionado para um vídeo de uma parte do jogo que escolher.
+Na página 'Gameplay' você pode clicar nas imagens representando cada jogo e ser redirecionado para um vídeo de uma parte do jogo que você escolher.
 
 ## 📦 Desenvolvimento:
 
@@ -22,7 +22,7 @@ Editor de Código Visual Studio Code - Vscode
 
 ## Códigos utilizados e explicados
 ### Tags HTML:
-### Páginas:
+### Páginas HTML:
 1 = index.html 2 = história.html 3 = gameplay.html
 
 !DOCTYPE html: esta é uma declaração do tipo de documento (DOCTYPE) e indica ao navegador que o documento é um documento HTML5. É uma parte essencial do documento HTML e deve ser a primeira linha. (presente nas páginas: 1, 2 e 3)
@@ -82,6 +82,43 @@ ID: define um identificador exclusivo que deve ser único por todo o documento.(
 p: representa um parágrafo, em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco.(presente na página: 2)
 
 span: é um elemento que possui a finalidade de agrupar um conteúdo textual e até mesmo apresentar um conteúdo visual.(presente na página: 2)
+
+
+# Códigos utilizados e explicados
+## Códigos CSS
+
+## style.css:
+
+Asterisco(*): o asterisco é o seletor universal, no qual representa que todos os elementos do site serão afetados de acordo com as definições de estilo ali colocadas.
+
+a: dentro do css, a tag HTML 'a' tem as definições de estilo para alterar a sua fonte(font-family), colocar uma decoração no texto(text-decoration), colocar uma cor no texto(color), mudar o cursor do mouse(cursor), alterar o seu espaço ao redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display) e ter uma cor de fundo quando o cursor estiver na palavra(hover e background-color).
+
+header: a tag 'header' está definida para ter uma cor de fundo(background), alterar a largura e altura(width e height), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o seu espaço ao seu redor(justify-content) e organizar os elementos da página dentro de containers de forma dinâmica(display).
+
+imagem-topo-direita: essa classe detém das definições de uma posicão no site para uma imagem(position), estar no topo e na direita do site(top e right)e ter uma margem(margin).
+
+body: o corpo do site tem as definições de alteração de tamanho em largura e altura(width e height), ter uma imagem de fundo com tamanho definido(background-image e background-size), não repetir a imagem do fundo ao rolar a página(background-repeat) e esconder a barra de rolagem horizontal(overflow-x).
+
+texto1 e texto2: ambas as classes tem as definições de terem uma margem(margin).
+
+conceito e estúdio: a classe 'conceito' e a classe 'estúdio', tem definições para ter um alinhamento de texto(text-align), colocar uma decoração no texto(text-decoration), ter uma cor de fundo(background-color), colocar uma cor no texto(color) e uma margem(margin).
+
+sobre e sobre2: todas as duas classes tem definidas a elas uma cor de fundo(background-color) e uma margem(margin).
+
+container: a classe 'container' possui uma definição de organizar os elementos da página dentro de containers de forma dinâmica(display) e alteração de tamanho em largura(width).
+
+esquerda: essa classe atribui uma definição de cor de fundo(background-color) e de tamanho em largura(width).
+
+direita: a classe 'direita' possui as definições de ter uma cor de fundo(background-color), alteração de tamanho em largura e altura(width e height), ter um tamanho de elemento definido(background-size), ter um alinhamento de texto(text-align), alterar o seu espaço ao seu redor(justify-content) e alinhar os itens igualmente(align-items).
+
+footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding) e um alinhamento de texto(text-align).
+
+
+
+
+
+
+
 
 ## ✒️ Autores
 
