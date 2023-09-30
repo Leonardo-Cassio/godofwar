@@ -83,6 +83,8 @@ p: representa um parágrafo, em mídias visuais, parágrafos são representados 
 
 span: é um elemento que possui a finalidade de agrupar um conteúdo textual e até mesmo apresentar um conteúdo visual.(presente na página: 2)
 
+iframe: O 'iframe' é uma tag usada para inserir uma página HTML em outra.(presente na página: 3)
+
 
 # Códigos utilizados e explicados
 ## Códigos CSS

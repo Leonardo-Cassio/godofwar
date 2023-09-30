@@ -8,17 +8,41 @@ body {
     margin: 0;
   }
 
+  .header1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+  }
+
+  .header1 h2 a{
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: red;
+      }
+
   .titulohistoria {
     background: black;
     color: red;
     width: 100%;
     height: 40px;
     position: fixed;
-    top: 0px;
+    top: 70px;
     text-decoration: underline;
     align-items: center;
     justify-content: space-around;
     display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   .container2{
@@ -75,6 +99,7 @@ body {
   align-items:center;
   justify-content: space-around;
   display: flex;
+  margin-top: 80px;
 }
 
 footer {
@@ -83,6 +108,7 @@ footer {
   padding: 10px; 
   text-align: center;
   bottom: 0; 
+  justify-content: end;
 }
 
 

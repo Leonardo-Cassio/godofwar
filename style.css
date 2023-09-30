@@ -4,7 +4,7 @@
   }
   
   a {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-decoration: underline;
     cursor: pointer;
     color: white;
@@ -62,7 +62,7 @@ background-color: red;
   text-align: center;
   text-decoration: underline;
   background-color: white;
-  color: navy;
+  color: black;
   margin: 0px 10px 5px 0px;
 }
 
@@ -75,7 +75,7 @@ background-color: red;
  text-align: center;
  text-decoration: underline;
  background-color: white;
- color: navy;
+ color: black;
  margin: 0px 10px 5px 0px;
 }
 
