@@ -115,13 +115,6 @@ direita: a classe 'direita' possui as definições de ter uma cor de fundo(backg
 
 footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding) e um alinhamento de texto(text-align).
 
-
-
-
-
-
-
-
 ## ✒️ Autores
 
 Leonardo Cassio dos Santos
