@@ -113,7 +113,7 @@ esquerda: essa classe atribui uma definição de cor de fundo(background-color) 
 
 direita: a classe 'direita' possui as definições de ter uma cor de fundo(background-color), alteração de tamanho em largura e altura(width e height), ter um tamanho de elemento definido(background-size), ter um alinhamento de texto(text-align), alterar o seu espaço ao seu redor(justify-content) e alinhar os itens igualmente(align-items).
 
-footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding) e um alinhamento de texto(text-align).
+footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding), um alinhamento de texto(text-align), ter uma posição específica(position), ter um tamanho para a largura(width), uma posição vertical do elemento em relação a sua borda inferior(bottom),alterar a altura(height).
 
 ## ✒️ Autores
 
