@@ -23,6 +23,7 @@ Editor de Código Visual Studio Code - Vscode
 ## Códigos utilizados e explicados
 ### Tags HTML:
 ### Páginas HTML:
+
 1 = index.html 2 = história.html 3 = gameplay.html
 
 !DOCTYPE html: esta é uma declaração do tipo de documento (DOCTYPE) e indica ao navegador que o documento é um documento HTML5. É uma parte essencial do documento HTML e deve ser a primeira linha. (presente nas páginas: 1, 2 e 3)
@@ -93,13 +94,13 @@ iframe: O 'iframe' é uma tag usada para inserir uma página HTML em outra.(pres
 
 Asterisco(*): o asterisco é o seletor universal, no qual representa que todos os elementos do site serão afetados de acordo com as definições de estilo ali colocadas.
 
-a: dentro do css, a tag HTML 'a' tem as definições de estilo para alterar a sua fonte(font-family), colocar uma decoração no texto(text-decoration), colocar uma cor no texto(color), mudar o cursor do mouse(cursor), alterar o seu espaço ao redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display) e ter uma cor de fundo quando o cursor estiver na palavra(hover e background-color).
+a: dentro do css, a tag HTML 'a' tem as definições de estilo para alterar a sua fonte(font-family), colocar uma decoração no texto(text-decoration), colocar uma cor no texto(color), mudar o cursor do mouse(cursor), alterar o espaço ao redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display) e ter uma cor de fundo quando o cursor estiver na palavra(hover e background-color).
 
-header: a tag 'header' está definida para ter uma cor de fundo(background), alterar a largura e altura(width e height), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o seu espaço ao seu redor(justify-content) e organizar os elementos da página dentro de containers de forma dinâmica(display).
+header: a tag 'header' está definida para ter uma cor de fundo(background), alterar a largura e altura(width e height), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o espaço ao seu redor(justify-content) e organizar os elementos da página dentro de containers de forma dinâmica(display).
 
 imagem-topo-direita: essa classe detém das definições de uma posicão no site para uma imagem(position), estar no topo e na direita do site(top e right)e ter uma margem(margin).
 
-body: o corpo do site tem as definições de alteração de tamanho em largura e altura(width e height), ter uma imagem de fundo com tamanho definido(background-image e background-size), não repetir a imagem do fundo ao rolar a página(background-repeat) e esconder a barra de rolagem horizontal(overflow-x).
+body: o corpo da página tem as definições de alteração de tamanho em largura e altura(width e height), ter uma imagem de fundo com tamanho definido(background-image e background-size), não repetir a imagem do fundo ao rolar a página(background-repeat) e esconder a barra de rolagem horizontal(overflow-x).
 
 texto1 e texto2: ambas as classes tem as definições de terem uma margem(margin).
 
@@ -111,9 +112,55 @@ container: a classe 'container' possui uma definição de organizar os elementos
 
 esquerda: essa classe atribui uma definição de cor de fundo(background-color) e de tamanho em largura(width).
 
-direita: a classe 'direita' possui as definições de ter uma cor de fundo(background-color), alteração de tamanho em largura e altura(width e height), ter um tamanho de elemento definido(background-size), ter um alinhamento de texto(text-align), alterar o seu espaço ao seu redor(justify-content) e alinhar os itens igualmente(align-items).
+direita: a classe 'direita' possui as definições de ter uma cor de fundo(background-color), alteração de tamanho em largura e altura(width e height), ter um tamanho de elemento definido(background-size), ter um alinhamento de texto(text-align), alterar o espaço ao seu redor(justify-content) e alinhar os itens igualmente(align-items).
 
-footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding), um alinhamento de texto(text-align), ter uma posição específica(position), ter um tamanho para a largura(width), uma posição vertical do elemento em relação a sua borda inferior(bottom),alterar a altura(height).
+footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma a distância entre o conteúdo de um elemento e suas bordas(padding), um alinhamento de texto(text-align), ter uma posição específica(position), ter um tamanho para a largura(width), uma posição vertical do elemento em relação a sua borda inferior(bottom) e alterar a altura(height).
+
+## historia.css:
+
+body: o corpo da página tem as definições de alteração de tamanho em largura e altura(width e height), ter uma imagem de fundo com tamanho definido(background-image e background-size), não repetir a imagem do fundo ao rolar a página(background-repeat), esconder a barra de rolagem horizontal(overflow-x) e uma margem(margin).
+
+header1: essa classe está definida para ter uma fonte para a letra(font-family), uma cor de fundo(background), alterar a largura e altura(width e height), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o espaço ao seu redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display), ter uma cor para o texto(color) e uma decoração para o texto(text-decoration).
+
+header1 h2 a: essas tags possuem a configuração para terem uma cor para o seu texto(color).
+
+a:hover: essa tag HTML tem a configuração de ter uma cor de fundo quando o mouse a selecionar(background-color).
+
+titulohistoria: essa classe está definida para ter uma fonte para a letra(font-family), uma cor de fundo(background), alterar a largura e altura(width e height), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o espaço ao seu redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display), ter uma cor para o texto(color), uma decoração para o texto(text-decoration) e uma margem do topo do site(margin-top).
+
+container2: essa classe foi definida para organizar os elementos da página dentro de containers de forma dinâmica(display) e ter uma definição de tamanho para a largura e altura(height e width). 
+
+h3: essa tag HTML possui apenas a definição para o tamanho da fonte(font-size).
+
+texto1, texto2 e texto3: essas classes possuem uma mesma definição que é uma margem para todos os lados do site(margin).
+
+clique1, clique2 e clique3: as três classes estão definidas para terem uma mudança no cursor do mouse quando ele estiver na palavra(cursor), uma cor para o texto(color), uma decoração para o texto(text-decoration) e uma definição de largura(width).
+
+esconde, esconde2 e esconde3: as três classes tem definições para organizar os elementos da página dentro de containers de forma dinâmica(display), porém a terceira classe possui uma definição a mais de indicar uma distância na parte inferior do conteúdo(padding-bottom).
+
+alinhar: essa classe defini o conteúdo para alinhar os itens igualmente(align-items), alterar o espaço ao seu redor(justify-content) e organizar os elementos da página dentro de containers de forma dinâmica(display).
+
+footer: essa tag HTML, está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma distância entre o conteúdo de um elemento e suas bordas(padding), um alinhamento de texto(text-align), ter uma posição específica(position), ter um tamanho para a largura(width), uma posição vertical do elemento em relação a sua borda inferior(bottom) e alterar a altura(height).
+
+## game.css:
+
+body: o corpo da página tem as definições de alteração de tamanho em largura e altura(width e height), esconder a barra de rolagem horizontal(overflow-x) e uma margem(margin).
+
+videos-container: esta classe foi definida para organizar os elementos da página dentro de containers de forma dinâmica(display), permitir alterar a direção na qual os elementos flex serão exibidos ao longo do eixo principal(flex-direction) e alinhar os itens igualmente(align-items).
+
+header2: essa classe está definida para ter uma fonte para a letra(font-family), uma cor de fundo(background), ter uma posição no site(position), estar no topo do site(top), alinhar os itens igualmente(align-items), alterar o espaço ao seu redor(justify-content), organizar os elementos da página dentro de containers de forma dinâmica(display) e uma definição de tamanho para a largura e altura(height e width).
+
+header2 h2 a: essas tags possuem a configuração para terem uma cor para o seu texto(color) e uma decoração para o seu texto(text-decoration).
+
+a:hover: essa tag HTML tem a configuração de ter uma cor de fundo quando o mouse a selecionar(background-color).
+
+god1, god2 e god3: essas classes estão definidas para terem uma cor para o texto(color) e uma cor para o fundo(background-color).
+
+gamepl: essa classe está definida para ter uma fonte para a letra(font-family), um alinhamento de texto(text-align), uma cor de fundo(background-color), alterar a largura e altura(width e height), alinhar os itens igualmente(align-items), organizar os elementos da página dentro de containers de forma dinâmica(display), ter uma cor para o texto(color), uma decoração para o texto(text-decoration), e uma margem do topo do site(margin-top).
+
+video1, video2 e video3: essas classes estão definidas para terem uma definição para a largura e a altura(height e width), uma cor para as bordas(border-color) e arredondar as bordas de um elemento(border-radius).
+
+footer: essa tag HTML está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma distância entre o conteúdo de um elemento e suas bordas(padding) e um alinhamento de texto(text-align).
 
 ## ✒️ Autores
 
@@ -124,4 +171,3 @@ Leonardo Cassio dos Santos
 * Conte a outras pessoas sobre este projeto 📢
 * Convide alguém da equipe para uma cerveja amanteigada 🍺 
 * Obrigado publicamente 🤓.
-* etc.
