@@ -162,6 +162,19 @@ video1, video2 e video3: essas classes estão definidas para terem uma definiç�
 
 footer: essa tag HTML está definida para ter uma cor de fundo(background-color), uma cor para o texto(color), uma distância entre o conteúdo de um elemento e suas bordas(padding) e um alinhamento de texto(text-align).
 
+# Códigos utilizados e explicados
+## Código Javascript
+
+## historia.js:
+
+const: cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. Isso não significa que o valor é imutável, apenas que a variável constante não pode ser alterada ou retribuída.
+
+document.getElementById: esse código obtém um elemento através de um ID.
+
+addEventListener: permite que você configure funções a serem chamadas quando um evento específico acontece.
+
+toggle: é um elemento de interface que permite alternar entre dois estados, geralmente representados por um botão que pode ser clicado para ativar ou desativar uma determinada funcionalidade.
+
 ## ✒️ Autores
 
 Leonardo Cassio dos Santos
